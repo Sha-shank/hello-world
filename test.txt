@@ -1,1 +1,2 @@
 my first git repo using bash
+I am with basetia and nalin.
